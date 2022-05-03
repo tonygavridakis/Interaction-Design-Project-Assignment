@@ -2,7 +2,7 @@
 
 ### First and Last Name: Antonios Gavridakis, Lydia Zwntanoy, Spyros Doylaveris
 ### University Registration Number: dpsd19013 dpsd19041 dpsd19033
-### GitHub Personal Profile: https://github.com/sdoulaveris
+### GitHub Personal Profile: https://github.com/tonygavridakis https://github.com/lydiaznt https://github.com/sdoulaveris
 
 # Introduction
 
